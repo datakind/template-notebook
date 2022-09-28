@@ -22,6 +22,7 @@
 ### Prerequisites
 
 --LIST AND EXPLAIN ANY PREREQUISTES THAT REQUIRE YOUR NOTEBOOK TO WORK--
+
 -- YOU CAN USE THE FOLLOWING STARTING LIST AND BUILD FROM THERE--
 
 1. Python installed - https://www.python.org/downloads/
@@ -29,6 +30,7 @@
 ### How to build then run the Jupyter Notebook locally
 
 --EXPLAIN HOW TO BUILD THE DOCKER ENVIRONMENT FOR YOUR NOTEBOOK--
+
 --YOU CAN USE THE FOLLOWING FOR BASIC INSTRUCTIONS ON HOW TO BUILD THE DOCKER ENVIRONMENT-
 
 1. Download step - Download repo from github then change into new directory
@@ -94,7 +96,8 @@ environment after you type `deactivate`
 
 ### Prerequisites
 
---LIST AND EXPLAIN ANY PREREQUISTES THAT REQUIRE YOUR WEBAPP TO WORK--
+--LIST AND EXPLAIN ANY PREREQUISTES THAT REQUIRE YOUR NOTEBOOK TO WORK--
+
 -- YOU CAN USE THE FOLLOWING STARTING LIST AND BUILD FROM THERE--
 
 1. docker installed - https://docs.docker.com/engine/install/
@@ -106,6 +109,7 @@ environment after you type `deactivate`
 ### How to build then run the Docker container/image
 
 --EXPLAIN HOW TO BUILD THE DOCKER ENVIRONMENT FOR YOUR NOTEBOOK--
+
 --YOU CAN USE THE FOLLOWING FOR BASIC INSTRUCTIONS ON HOW TO BUILD THE DOCKER ENVIRONMENT-
 
 1. Platform check - If you are using MacM1 use the following command to set your docker platform to linux/amd64
